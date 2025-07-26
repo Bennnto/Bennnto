@@ -1,7 +1,7 @@
-## Hi there 👋 
+## 🅱️ Hi there :octocat:👋 
 - My name is Ben a: 27 yrs old
 - 📫 How to reach me: ✉️
-    - [Email:ben.promkaew@icloud.com](ben.promkaew@icloud.com) (Open for any opportunity)
+    - 🔗 [Email:ben.promkaew@icloud.com](ben.promkaew@icloud.com) (Open for any opportunity)
 - 👨🏻‍🎓 Currently
     - Being a Computer Programming Student @ George Brown College (Toronto)
 - 💼 I’m currently working on my own beginner project to create my portfolio && happy if have any opportunity to collaborate
@@ -16,10 +16,10 @@
     - Full Stack Developer
       - Javascript (Event handling, Object, Prototype, Class, API(how to fetch and create), etc..)
       - HTML/CSS 
-    - SQL (Database Management)
-    - BASH Shell Script
+    - 🐬 SQL (Database Management)
+    - 🐚 BASH Shell Script
     - Linux Essential
-- Fun Fact Besides 👨🏻‍🎓 and 💼, I am a 🚴🏻‍♂️
+- 🙆‍♂️ Fun Fact Besides 👨🏻‍🎓 and 💼, I am a 🚴🏻‍♂️ && 👬 
 <!--
 **Bennnto/Bennnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
