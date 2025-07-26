@@ -18,7 +18,8 @@
       - HTML/CSS 
     - SQL (Database Management)
     - BASH Shell Script
-    - Linux Essential 
+    - Linux Essential
+- Fun Fact Besides 👨🏻‍🎓 and 💼, I am a 🚴🏻‍♂️
 <!--
 **Bennnto/Bennnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
