@@ -1,7 +1,7 @@
 ## Hi there 👋 
 - My name is Ben a: 27 yrs old
 - 📫 How to reach me: ✉️
-    - [Email](ben.promkaew@icloud.com) (Open for any opportunity)
+    - [Email:ben.promkaew@icloud.com](ben.promkaew@icloud.com) (Open for any opportunity)
 - 👨🏻‍🎓 Currently
     - Being a Computer Programming Student @ George Brown College (Toronto)
 - 💼 I’m currently working on my own beginner project to create my portfolio && happy if have any opportunity to collaborate
