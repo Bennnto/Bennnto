@@ -17,7 +17,7 @@
       - Javascript (Event handling, Object, Prototype, Class, API(how to fetch and create), etc..)
       - HTML/CSS 
     - 🐬 SQL (Database Management)
-    - 🐚 BASH Shell Script `system monitor by bash shell script`
+    - 🐚 BASH Shell Script `system monitor by bash shell script`> [torepo](https://github.com/Bennnto/simple_system_monitor_Bash)
     - Linux Essential
 - 🙆‍♂️ Fun Fact Besides 👨🏻‍🎓 and 💼, I am a 🚴🏻‍♂️ && 👬 
 <!--
