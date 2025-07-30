@@ -1,5 +1,5 @@
 ---
-name: Contact for contributions via Github
+name: 'Contact me for contributions '
 about: Please leave your message and contact
 title: ''
 labels: enhancement
