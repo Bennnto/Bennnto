@@ -13,6 +13,7 @@
     - Global New Account Customer Care Professional At American Express (Thai) during Oct 2022 – Sep 2023
 - 👨🏻‍💻 I'm currently learning
     - C# (Object Oriented Programming) `Inventory Console App` >> [to repository](https://github.com/Bennnto/-net-space)
+    - Python
     - Full Stack Developer
       - Javascript (Event handling, Object, Prototype, Class, API(how to fetch and create), etc..)
       - HTML/CSS 
