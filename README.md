@@ -1,34 +1,7 @@
-## 🅱️ Hi there :octocat:👋 
-- My name is Ben a: 27 yrs old
-- 📫 How to reach me: ✉️
-    - 🔗 Email:[ben.promkaew@icloud.com](ben.promkaew@icloud.com) (Open for any opportunity)
-- 👨🏻‍🎓 Currently
-    - Being a Computer Programming Student @ George Brown College (Toronto)
-- 💼 I’m currently working on my own beginner project to create my portfolio && happy if have any opportunity to collaborate
-  on any project that suit with my experience and challenge to gain more network and knowledge 
-- 📂 Experience
-    - Cabin Mechanic at Bangkok Airways during Dec 2018 – Jul 2020
-    - Data Entry at Shopee Pay Thailand during Apr 2021 – Feb 2022
-    - Kyc Associate at Bitkub Online during Oct 2022 – Sep 2023
-    - Global New Account Customer Care Professional At American Express (Thai) during Oct 2022 – Sep 2023
-- 👨🏻‍💻 I'm currently learning
-    - C# (Object Oriented Programming) `Inventory Console App` >> [to repository](https://github.com/Bennnto/-net-space)
-    - Python (Todo list application, Expense Tracker Application)
-    - Full Stack Developer
-      - Javascript (Event handling, Object, Prototype, Class, API(how to fetch and create), etc..)
-      - HTML/CSS 
-    - 🐬 SQL (Database Management)
-    - 🐚 BASH Shell Script `system monitor by bash shell script`>> [to repository](https://github.com/Bennnto/simple_system_monitor_Bash)
-    - Linux Essential
-- 🙆‍♂️ Fun Fact Besides 👨🏻‍🎓 and 💼, I am a 🚴🏻‍♂️ && 👬 
-<!--
-**Bennnto/Bennnto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi I am [Ben] :octocat:👋 
+
+## My tech stack
+- **language**: Python, Javascript, HTML, CSS
+- **Web**: FastAPI, Django, Django restframework, SQLite, PostgreSQL
+
+
