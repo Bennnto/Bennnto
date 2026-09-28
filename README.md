@@ -1,7 +1,13 @@
-## Hi I am [Ben] :octocat:👋 
+```
+┌───┬───┐    ┌───┐    ┌───┬───┐    ┌───┬───┬───┐
+│ H │ I │    │ I │    │ A │ M │    │ B │ E │ N │
+└───┴───┘    └───┘    └───┴───┘    └───┴───┴───┘
+```
+```
+language : Python, Javascript, HTML, CSS, C#
 
-## My tech stack
-- **language**: Python, Javascript, HTML, CSS
-- **Web**: FastAPI, Django, Django restframework, SQLite, PostgreSQL
 
-
+```
+- [LinkedIn](https://www.linkedin.com/in/vissarutp/)
+- [Portfolio](https://bennnnto.me)
+- [Email](mailto:ben.promkaew@icloud.com)
